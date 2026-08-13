@@ -1,5 +1,4 @@
-<!-- ===== NEON SYSTEM HERO ===== -->
-<!-- GitHub automatically selects the dark or light hero. -->
+<!-- ===== HERO BANNER ===== -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxClart/MaxClart/main/dark.svg?v=1">
@@ -47,17 +46,30 @@
 
 <br/>
 
+<!-- ===== PROJECTS LIST ===== -->
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxClart/MaxClart/main/projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaxClart/MaxClart/main/projects-light.svg">
+  <img alt="Projects List" src="https://raw.githubusercontent.com/MaxClart/MaxClart/main/projects-light.svg">
+</picture>
+</div>
+
+<br/>
+
 <!-- ===== TECH ARSENAL ===== -->
 
 <div align="center">
 
 ### 🛠️ TECH ARSENAL
 
+
 <table>
 <tr>
 <td align="center" width="33%">
 
-**LANGUAGES**
+**LANGUAGES & FRAMEWORKS**
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
