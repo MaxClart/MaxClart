@@ -6,7 +6,5 @@
 
 <br/>
 
-## ▸ connect
-
 <div align="center">
 
